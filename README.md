@@ -3,7 +3,7 @@
 This is Demo for Git &Github class.
 
 # Teacher
-Shradha Khapra.
+Shradha Khapra
 
 # Student
 Rahul Saini
